@@ -1,0 +1,7 @@
+Django==1.10
+gunicorn==19.7.1
+olefile==0.44
+Pillow==4.1.1
+whitenoise-3.3.0
+dj-database-url-0.4.2
+psycopg==2.7.1
